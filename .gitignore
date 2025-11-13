@@ -8,3 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+*.json
+*.csv
+*.bin
+*.sqlite3
+*.zip
+*.pickle
+
+LongBench-main/
